@@ -7,7 +7,7 @@ Golang example project represent gRPC server.
 [Golang Client](https://github.com/zh1gr/go-grpc-client)<br>
 [Golang Domain](https://github.com/zh1gr/go-grpc-domain)
 
-### install
+### run
 
 ---
 
